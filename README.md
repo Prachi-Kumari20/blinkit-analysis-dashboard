@@ -8,11 +8,13 @@ Power BI
 Power Query
 DAX
 Data Modeling
+
 📊 Key KPIs
 Total Sales
 Average Sales
 Number of Items Sold
 Average Customer Rating
+
 📈 Dashboard Features
 Sales Analysis by Fat Content
 Sales Analysis by Item Type
@@ -21,6 +23,7 @@ Outlet Size & Location Analysis
 Outlet Establishment Trends
 KPI Comparison by Outlet Type
 Interactive Filters & Slicers for better insights
+
 🎯 Project Objective
 
 To transform raw retail sales data into an interactive dashboard that enables stakeholders to monitor sales performance, identify trends, and make data-driven business decisions.
